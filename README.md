@@ -27,7 +27,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-agenda --save
+$ npm i @kne/egg-agenda --save
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ $ npm i egg-agenda --save
 // {app_root}/config/plugin.js
 exports.agenda = {
   enable: true,
-  package: 'egg-agenda',
+  package: '@kne/egg-agenda',
 };
 ```
 
